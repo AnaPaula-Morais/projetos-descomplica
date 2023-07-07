@@ -1,0 +1,79 @@
+body{
+    /* peso da fonte, vai de 100 a 900, onde 400 é o normal e 700 é o negrito */
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    /* px: unidade absoluta */
+    font-size: 15px;
+    /* espaçamento entre linhas, em: unidade de medida relativa ao elemento pai, 2.2*15px=33*/
+    line-height: 2.2em;
+    color: gray;
+    margin: 0;
+}
+header{
+    background-color: blueviolet;
+}
+section, footer{
+    margin: 40px;
+}
+h1{
+    font-size: 63px;
+    color: #303030;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+/* nav li a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+nav li{
+    float: left;
+}
+nav ul{
+    float: right;
+    list-style: none;
+}
+nav{
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    height: 50px;
+    background-color: #08BBD2;
+    padding-right: 40px;
+} */
+
+/* #colecao .img-colecao figure{
+    display: inline-block;
+}
+
+#colecao .img-colecao{
+    text-align: center;
+} */
+
+/* #time .foto-time figure{
+    display: inline-block;
+    
+}
+
+#time .foto-time{
+    text-align: center;
+} */
+
+/* #time .foto-time figure img{
+    border-radius: 100px;
+} */
+
+/* #produto .foto-produto figure{
+    display: inline-block;
+}
+#produto .foto-produto{
+    text-align: center;
+} */
